@@ -1,4 +1,4 @@
-asdfasdfasdfasdfsadfasdfasdfconst semver = require('semver');
+adfasdfasdfasdfasdfasdfsadfasdfasdfconst semver = require('semver');
 const colors = require('colors/safe');
 
 const { engines: { node: nodeVersion }} = require('./package');
