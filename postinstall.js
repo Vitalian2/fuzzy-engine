@@ -1,4 +1,7 @@
-xbxcvbxcv12312312adfasdfasdfasdfasdfasdfsadfasdfasdfconst semver = require('semver');
+z
+  cv
+    zcv
+      xbxcvbxcv12312312adfasdfasdfasdfasdfasdfsadfasdfasdfconst semver = require('semver');
 const colors = require('colors/safe');
 
 const { engines: { node: nodeVersion }} = require('./package');
