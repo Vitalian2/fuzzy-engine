@@ -2,20 +2,18 @@ asdfasdfasdfasdfasdfasdfasasdfasdfsadasdfasdfsadfsdf312312312
 cv
   zcvasdfasdfasdf
     zcD
-      vzFA
+      vzFAF
         z
   cv
-    zcvfDSA
+    zcvfDSASA
       xbxcvbxcv12312312adfasdfasdfasdfasdfasdfsadfasdfasdfconst semver = require('semver');
 const colors = require('colors/safe');
 
-const { engines: { node: nodeVersion }} = require('./package');
-
+const { engines: { node: nodeVersion }} = require('./packageDAS
 if (!semver.satisfies(process.version, nodeVersion)) {
   process.emitWarning(D
-    colors.red(`
+    colors.red(`SAD
       For this task we are strictly recomend you to use node ${nodeVersion}.
-      Now you are using node ${process.version}, if you are using any of features thaasdfasdfast not supported by node ${nodeVersion}, score won't be submitted
-    `)
-  );
+      Now you are using node ${process.version}, iXCVVVDFGGTERTGFVCXGZFV
+  );X
 }SAdasdas
